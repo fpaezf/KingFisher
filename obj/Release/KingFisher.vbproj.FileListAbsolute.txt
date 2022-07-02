@@ -1,0 +1,14 @@
+D:\Visual Basic\Por acabar\KingFisher\bin\Release\KingFisher.exe.config
+D:\Visual Basic\Por acabar\KingFisher\bin\Release\KingFisher.exe
+D:\Visual Basic\Por acabar\KingFisher\bin\Release\KingFisher.pdb
+D:\Visual Basic\Por acabar\KingFisher\bin\Release\KingFisher.xml
+D:\Visual Basic\Por acabar\KingFisher\obj\Release\KingFisher.About.resources
+D:\Visual Basic\Por acabar\KingFisher\obj\Release\KingFisher.Bird.resources
+D:\Visual Basic\Por acabar\KingFisher\obj\Release\KingFisher.Resources.resources
+D:\Visual Basic\Por acabar\KingFisher\obj\Release\KingFisher.vbproj.GenerateResource.cache
+D:\Visual Basic\Por acabar\KingFisher\obj\Release\KingFisher.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\Por acabar\KingFisher\obj\Release\KingFisher.exe
+D:\Visual Basic\Por acabar\KingFisher\obj\Release\KingFisher.xml
+D:\Visual Basic\Por acabar\KingFisher\obj\Release\KingFisher.pdb
+D:\Visual Basic\Por acabar\KingFisher\obj\Release\KingFisher.vbproj.AssemblyReference.cache
+D:\Visual Basic\Por acabar\KingFisher\obj\Release\KingFisher.vbproj.SuggestedBindingRedirects.cache

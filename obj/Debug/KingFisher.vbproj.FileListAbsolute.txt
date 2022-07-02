@@ -1,0 +1,13 @@
+D:\Visual Basic\Por acabar\KingFisher\obj\Debug\KingFisher.vbproj.AssemblyReference.cache
+D:\Visual Basic\Por acabar\KingFisher\obj\Debug\KingFisher.Bird.resources
+D:\Visual Basic\Por acabar\KingFisher\obj\Debug\KingFisher.Resources.resources
+D:\Visual Basic\Por acabar\KingFisher\obj\Debug\KingFisher.vbproj.GenerateResource.cache
+D:\Visual Basic\Por acabar\KingFisher\obj\Debug\KingFisher.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\Por acabar\KingFisher\obj\Debug\KingFisher.About.resources
+D:\Visual Basic\Por acabar\KingFisher\bin\Debug\KingFisher.exe.config
+D:\Visual Basic\Por acabar\KingFisher\bin\Debug\KingFisher.exe
+D:\Visual Basic\Por acabar\KingFisher\bin\Debug\KingFisher.pdb
+D:\Visual Basic\Por acabar\KingFisher\bin\Debug\KingFisher.xml
+D:\Visual Basic\Por acabar\KingFisher\obj\Debug\KingFisher.exe
+D:\Visual Basic\Por acabar\KingFisher\obj\Debug\KingFisher.xml
+D:\Visual Basic\Por acabar\KingFisher\obj\Debug\KingFisher.pdb
